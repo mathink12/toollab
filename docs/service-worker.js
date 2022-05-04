@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/toollab/precache-manifest.aa7c004d47179e28f4148b724ffd6c86.js"
+  "/precache-manifest.24880a4eded36f5d0197a17d9922a922.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "toollab"});
